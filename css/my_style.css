@@ -98,7 +98,7 @@ h1{
 }
 .bigrow {
     background-color: red (90, 67, 65);
-    color: rgb(0, 0, 0);
+    color: rgb(161, 62, 62);
     border: 3px solid rgb(255, 0, 0);
     padding: 10px;
     height:310px;
@@ -149,7 +149,8 @@ h1{
     padding-left:40px;
 }
 .descripbox{
-    float: left;    
+    float: left;  
+    background: purple ;  
     background-color: red (90, 67, 65);
         color: rgb(0, 0, 0);
      /*  border: 3px solid rgb(255, 0, 0); */
@@ -161,7 +162,7 @@ h1{
 
 /* For English Course*/
 .rowofenglish {
-    background: rgb(255, 255, 255);
+    background: rgb(10, 62, 181);
     color: rgb(0, 0, 0);
     /*border: 3px solid rgb(255, 0, 0);*/
     padding: 10px;

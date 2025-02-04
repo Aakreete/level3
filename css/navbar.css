@@ -1,6 +1,6 @@
 /* Create a sticky/fixed navbar */
 #navbar {
-  background-color: #d0dcff;
+  background-color: #1842c1;
   position: relative;
   
   height: 70px;
@@ -42,10 +42,10 @@
   color: black;
 }
 
-/* Style the active/current link */
+/*  Style the active/current link */
 #navbar a.active {
   background-color: blueviolet;
-  color: white;
+  color: rgb(134, 189, 159);
 }
 
 /* Display some links to the right */
